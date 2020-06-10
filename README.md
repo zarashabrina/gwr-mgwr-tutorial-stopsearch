@@ -2,7 +2,7 @@
 ## Methods: GWR and MGWR 
 This is a tutorial for Inferential Spatial Statistic using GWR and MGWR method applied to Connecticut's traffic 'stop and search data'. This tutorial can be easily followed using Jupyter Notebook via Anaconda Navigator.
 
-Anaconda Navigator can be downloaded [here] (https://docs.anaconda.com/anaconda/navigator/install/)
+Anaconda Navigator can be downloaded [here](https://docs.anaconda.com/anaconda/navigator/install/)
 
 All the required packages have been prepared in the environment.yml file. Here is the step to create the environment in your local computer: 
 
